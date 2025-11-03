@@ -1,0 +1,11 @@
+hotel,lead_time,arrival_date_year,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,country,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,company,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,reservation_status_date
+Resort Hotel,120,2025,July,28,15,4,10,2,2,0,HB,PRT,Direct,Direct,0,0,3,F,F,1,No Deposit,NULL,NULL,0,Transient,125.50,1,5,Check-Out,2025-07-29
+Resort Hotel,90,2025,August,32,8,3,11,2,3,1,FB,ESP,Online TA,TA/TO,0,0,2,G,G,0,No Deposit,240,NULL,0,Transient,145.75,1,4,Check-Out,2025-08-22
+Resort Hotel,150,2025,July,30,22,5,9,2,2,0,HB,GBR,Direct,Direct,1,0,5,F,F,1,No Deposit,NULL,NULL,0,Transient,138.00,2,6,Check-Out,2025-08-05
+Resort Hotel,100,2025,August,34,5,4,10,2,2,1,FB,FRA,Online TA,TA/TO,0,0,4,E,E,0,No Deposit,14,NULL,0,Transient,152.25,1,5,Check-Out,2025-08-19
+Resort Hotel,110,2025,September,36,12,3,11,2,3,0,HB,DEU,Direct,Direct,0,0,1,G,G,2,No Deposit,NULL,NULL,0,Transient,142.50,2,7,Check-Out,2025-09-26
+Resort Hotel,95,2025,July,29,18,4,10,2,2,1,FB,ITA,Online TA,TA/TO,0,0,3,F,F,1,No Deposit,240,NULL,0,Transient,148.00,1,4,Check-Out,2025-08-01
+Resort Hotel,130,2025,August,33,25,5,9,3,3,0,HB,BEL,Direct,Direct,1,0,6,H,H,0,No Deposit,NULL,NULL,0,Transient,155.75,2,8,Check-Out,2025-09-08
+Resort Hotel,85,2025,September,37,8,3,11,2,2,1,FB,NLD,Online TA,TA/TO,0,0,2,E,E,1,No Deposit,9,NULL,0,Transient,139.50,1,5,Check-Out,2025-09-22
+Resort Hotel,140,2025,July,30,10,4,10,2,3,1,HB,CHE,Direct,Direct,0,0,4,G,G,0,No Deposit,NULL,NULL,0,Transient,150.00,2,6,Check-Out,2025-07-24
+Resort Hotel,105,2025,August,35,15,3,11,2,2,0,FB,POL,Online TA,TA/TO,0,0,1,F,F,1,No Deposit,240,NULL,0,Transient,144.25,1,5,Check-Out,2025-09-01

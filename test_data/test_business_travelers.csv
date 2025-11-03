@@ -1,0 +1,11 @@
+hotel,lead_time,arrival_date_year,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,country,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,company,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,reservation_status_date
+City Hotel,7,2025,August,33,5,0,2,1,0,0,BB,USA,Corporate,Corporate,1,0,25,A,A,0,No Deposit,40,223,0,Contract,95.00,0,2,Check-Out,2025-08-07
+City Hotel,14,2025,September,36,10,0,3,1,0,0,BB,GBR,Corporate,Corporate,1,0,18,A,A,1,No Deposit,40,223,0,Contract,98.50,0,1,Check-Out,2025-09-13
+City Hotel,10,2025,October,40,15,0,2,1,0,0,BB,FRA,Corporate,Corporate,1,0,22,B,B,0,No Deposit,40,223,0,Contract,92.00,0,3,Check-Out,2025-10-17
+City Hotel,5,2025,November,45,8,0,1,1,0,0,BB,DEU,Corporate,Corporate,1,0,30,A,A,1,No Deposit,40,223,0,Contract,89.00,0,2,Check-Out,2025-11-09
+City Hotel,12,2025,August,32,20,0,3,1,0,0,BB,ESP,Corporate,Corporate,1,0,20,C,C,0,No Deposit,40,223,0,Contract,94.50,0,1,Check-Out,2025-08-23
+City Hotel,8,2025,September,38,25,0,2,1,0,0,BB,ITA,Corporate,Corporate,1,0,16,A,A,1,No Deposit,40,223,0,Contract,91.00,0,2,Check-Out,2025-09-27
+City Hotel,15,2025,July,29,12,0,4,1,0,0,BB,BEL,Corporate,Corporate,1,0,28,B,B,0,No Deposit,40,223,0,Contract,96.75,0,3,Check-Out,2025-07-16
+City Hotel,6,2025,October,42,18,0,2,1,0,0,BB,NLD,Corporate,Corporate,1,0,24,A,A,1,No Deposit,40,223,0,Contract,88.50,0,2,Check-Out,2025-10-20
+City Hotel,11,2025,November,47,22,0,3,1,0,0,BB,CHE,Corporate,Corporate,1,0,19,C,C,0,No Deposit,40,223,0,Contract,93.00,0,1,Check-Out,2025-11-25
+City Hotel,9,2025,December,50,5,0,2,1,0,0,BB,AUT,Corporate,Corporate,1,0,21,A,A,1,No Deposit,40,223,0,Contract,90.50,0,2,Check-Out,2025-12-07

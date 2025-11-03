@@ -1,0 +1,9 @@
+hotel,lead_time,arrival_date_year,arrival_date_month,arrival_date_week_number,arrival_date_day_of_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,babies,meal,country,market_segment,distribution_channel,is_repeated_guest,previous_cancellations,previous_bookings_not_canceled,reserved_room_type,assigned_room_type,booking_changes,deposit_type,agent,company,days_in_waiting_list,customer_type,adr,required_car_parking_spaces,total_of_special_requests,reservation_status,reservation_status_date
+City Hotel,365,2025,August,32,15,0,7,2,0,0,SC,PRT,Online TA,TA/TO,0,3,0,A,A,0,No Deposit,240,NULL,0,Transient,120.50,0,0,Check-Out,2025-08-22
+City Hotel,400,2025,July,28,10,1,5,1,0,0,BB,ESP,Online TA,TA/TO,0,2,1,D,D,1,No Deposit,250,NULL,0,Transient,95.00,0,0,Check-Out,2025-07-16
+Resort Hotel,320,2025,September,36,5,2,5,2,1,0,HB,GBR,Online TA,TA/TO,0,1,2,E,E,0,No Deposit,14,NULL,0,Transient,150.75,1,0,Check-Out,2025-09-12
+City Hotel,450,2025,December,50,20,0,3,1,0,0,SC,FRA,Online TA,TA/TO,0,4,0,A,A,2,No Deposit,9,NULL,5,Transient,110.00,0,0,Check-Out,2025-12-23
+Resort Hotel,380,2025,August,33,20,1,6,2,0,0,BB,DEU,Online TA,TA/TO,0,2,1,B,B,0,No Deposit,240,NULL,0,Transient,130.25,0,1,Check-Out,2025-08-27
+City Hotel,410,2025,November,45,8,0,4,1,1,0,SC,ITA,Online TA,TA/TO,0,3,0,C,C,1,No Deposit,14,NULL,2,Transient,105.50,0,0,Check-Out,2025-11-12
+Resort Hotel,340,2025,July,30,25,2,4,2,0,1,HB,BEL,Online TA,TA/TO,0,1,2,D,D,0,No Deposit,250,NULL,0,Transient,140.00,1,0,Check-Out,2025-08-01
+City Hotel,390,2025,October,40,15,0,5,1,0,0,BB,NLD,Online TA,TA/TO,0,2,1,A,A,1,No Deposit,240,NULL,3,Transient,115.75,0,1,Check-Out,2025-10-20
